@@ -1,4 +1,6 @@
 import matplotlib.pyplot as plt
+import pandas as pd
+
 
 # Sample data
 x = [1, 2, 3, 4, 5]
@@ -38,7 +40,7 @@ plt.xlabel("Age")
 plt.ylabel("Frequency")
 plt.show()
 
-import pandas as pd
+
 
 # Create a DataFrame
 data = {
